@@ -1,7 +1,7 @@
 {
-  "name": "Miniblog.Core",
-  "short_name": "Miniblog.Core",
-  "description": "A short description of the blog.",
+  "name": "Wesley Khoi Vo",
+  "short_name": "WKV",
+  "description": "Technical blog by Khoi Minh Vo",
   "icons": [
     {
       "src": "/img/icon192x192.png",
@@ -12,8 +12,8 @@
       "sizes": "512x512"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#f2eecb",
+  "background_color": "#f2eecb",
   "display": "standalone",
   "start_url": "/"
 }
